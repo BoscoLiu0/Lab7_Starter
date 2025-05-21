@@ -38,7 +38,7 @@ To run all the tests:
 ```bash
 npm install
 npm run test
-
+```
 ## 📸 Test Results Screenshot
 
-![Test Results](./npm_test.jpg)
+![Test Results](https://github.com/BoscoLiu0/Lab7_Starter/blob/main/npm_test.jpg?raw=true)

@@ -1,4 +1,4 @@
-# Lab 7 - E2E Testing
+# Lab 7 - Unit & E2E Testing
 
 **Names:** Yanhua Liu
 
@@ -41,4 +41,4 @@ npm run test
 ```
 ## 📸 Test Results Screenshot
 
-![Test Results](https://github.com/BoscoLiu0/Lab7_Starter/blob/main/npm_test.jpg?raw=true)
+![Test Results](https://github.com/BoscoLiu0/Lab7_Starter/blob/main/npm_test_result.jpg?raw=true)
